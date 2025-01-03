@@ -1,2 +1,2 @@
 # shared-ptr
-Shared Pointer implementation in C++17
+Intrusive Shared Pointer implementation in C++17
